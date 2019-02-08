@@ -1,0 +1,4 @@
+0    [main] INFO  Main  - Start
+720  [AWT-EventQueue-0] ERROR Main  - No Errors
+25221 [AWT-EventQueue-0] DEBUG ListState  - adding a list
+35159 [AWT-EventQueue-0] WARN  Mediator  - removing list
